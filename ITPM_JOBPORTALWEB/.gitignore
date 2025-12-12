@@ -1,0 +1,10 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.log
+
+# App settings
+**/appsettings.*.json
+!**/appsettings.json
